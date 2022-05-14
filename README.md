@@ -23,14 +23,12 @@
 * The data can be used to send monthly emails
 
 # Screenshots
-![](images/home-page.png)
+![](public/images/home-page.png)
 
-![](images/mandatory-fields.png)
 
-![](images/user-enter-details.png)
 
-![](images/success-page.png)
+![](public/images/success-page.png)
 
-![](images/mailchimp.png)
+![](public/images/mailchimp.png)
 
-![](images/failure-page.png)
+![](public/images/failure-page.png)
