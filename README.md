@@ -23,7 +23,7 @@
 * The data can be used to send monthly emails
 
 # Screenshots
-![](public/images/home-page.png)
+![](public/images/home.png)
 
 
 
