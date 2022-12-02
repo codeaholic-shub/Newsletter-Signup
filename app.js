@@ -42,7 +42,7 @@ const url = 'https://us8.api.mailchimp.com/3.0/lists/29a6468d04';
 
 const options={
     method:"POST",
-    auth:"codeaholic-shub:b81df0993a5c2ad70acb2e015a3c989e-us8"
+    auth:"codeaholic-shub:60c7ad9c192bb58f8fb1dc918eaf1895-us8"
   };
   const request = https.request(url,options,function(response){
      response.on("data",function(data){
